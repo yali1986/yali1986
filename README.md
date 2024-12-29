@@ -11,6 +11,7 @@ Creative, communicative, disciplined, and consistent. Always seeking new challen
 I have a high capacity for adapting to different work environments and I am committed to continuous learning. I possess excellent writing and grammar skills.
 
 ## Education:
+- **2024:** Code Op School (240h). Front End Web Developer [IFCD65]. Specialization in Vue.
 - **2024:** IT Academy (90 days of training). Specialization in REACT.
 - **2023-2024:** [IFCD0210] Web Application Development with Technologies. Professional Certificate Level 3 (680 hours). Includes 80 hours of unpaid internships in companies.
 - **2023:** Big Data Course.
